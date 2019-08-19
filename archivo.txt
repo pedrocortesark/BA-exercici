@@ -1,1 +1,1 @@
-Esto es un archivo de texto
+Esto es un archivo de text modificado desde la rama branch1
